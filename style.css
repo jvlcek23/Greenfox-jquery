@@ -1,0 +1,13 @@
+
+p{
+  display:flex;
+  font-family: 'Zen Kurenaido', sans-serif;
+  font-weight:bold;
+  font-size:30px;
+  width: 300px;
+  height:150px;
+  margin:10px;
+  justify-content:center;
+  align-items:center;
+  border: 5px solid #4285f4;
+}
